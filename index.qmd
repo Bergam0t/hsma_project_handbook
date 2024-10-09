@@ -1,0 +1,11 @@
+---
+title: The HSMA Project Handbook has Moved!
+format:
+    html:
+        embed-resources: true
+
+---
+
+Please use the link below to the new home of the project handbook.
+
+<https://hsma-programme.github.io/hsma_project_handbook/>
